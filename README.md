@@ -8,8 +8,10 @@ This repository contains the code for the MSBA take-home assignment on object de
    ```bash
    conda create -n yolo503 python=3.10
    conda activate yolo503
-3. Install required packages:
+2. Install required packages:
+   ```bash
    pip install ultralytics torch torchvison pillow numpy pandas jupyter
-4. Launch Jupyter Notebook:
+3. Launch Jupyter Notebook:
+   ```bash
    jupyter notebook
-5. Open detection_script.ipynb and run all cells. 
+4. Open detection_script.ipynb and run all cells. 
